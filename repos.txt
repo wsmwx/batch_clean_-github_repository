@@ -1,0 +1,6 @@
+template
+USER_NAME/REPO_NAME
+...
+
+Eg: 
+wsmwx/batch_clean_github_repository
